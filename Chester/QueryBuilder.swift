@@ -22,7 +22,7 @@ public struct Argument {
 
 }
 
-final class QueryBuilder {
+final public class QueryBuilder {
 
   fileprivate var queries: [Query]
   
